@@ -1,0 +1,152 @@
+/* Tenant-specific CSS File*/
+/* Customer 00001 - tec*/
+
+#ModalContactInfo .modal-header h4 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    /* font-size: 20px; */
+}
+
+#ModalCalendarInfo .modal-header h4 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    /* font-size: 20px; */
+}
+
+#ModalChildrenInfo .modal-header h4 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    /* font-size: 20px; */
+}
+
+#ModalProfilePic .modal-header h4 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    /* font-size: 20px; */
+}
+
+#ModalPrayerInfo .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+
+#ModalPrayerApprove .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+    }
+#ModalPrayerReject .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalPrayerView .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalPrayerNew .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalGroupNew .modal-header h4 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    /* font-size: 20px; */
+}
+#ModalGroupOwnerSelect .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalGroupManage .modal-header h4 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    /* font-size: 20px; */
+}
+#ModalGroupMemberSelect .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalExistingRequest .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalEditExistingRequest .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalNewInfoExistingRequest .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalApproveRegistrant .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
+#ModalRejectRegistrant .modal-header h5 {
+    background: url('/_tenant/images/TEC App Icon 08.png') 0 50% no-repeat;
+    background-size: 20% auto;
+    color: black;
+    margin: 0px;
+    padding: 10px 0 10px 145px;
+    font-size: 20px;
+}
